@@ -1,0 +1,4 @@
+interface:
+  display_name: "Course-Grounded Guided Review Public"
+  short_description: "Source-grounded, question-driven adaptive exam review"
+  default_prompt: "Use $course-guided-review-public to review this course through source-grounded, step-by-step problem solving."
